@@ -1,0 +1,6 @@
+C:\Users\pavle\Desktop\HotelProject\HotelProject\Hotel.DTO\bin\Release\Hotel.DTO.dll
+C:\Users\pavle\Desktop\HotelProject\HotelProject\Hotel.DTO\bin\Release\Hotel.DTO.pdb
+C:\Users\pavle\Desktop\HotelProject\HotelProject\Hotel.DTO\obj\Release\Hotel.DTO.csproj.AssemblyReference.cache
+C:\Users\pavle\Desktop\HotelProject\HotelProject\Hotel.DTO\obj\Release\Hotel.DTO.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Desktop\HotelProject\HotelProject\Hotel.DTO\obj\Release\Hotel.DTO.dll
+C:\Users\pavle\Desktop\HotelProject\HotelProject\Hotel.DTO\obj\Release\Hotel.DTO.pdb

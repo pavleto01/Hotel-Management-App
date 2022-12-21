@@ -1,0 +1,10 @@
+D:\20621599\HotelProject\Hotel.DTO\bin\Debug\Hotel.DTO.dll
+D:\20621599\HotelProject\Hotel.DTO\bin\Debug\Hotel.DTO.pdb
+D:\20621599\HotelProject\Hotel.DTO\obj\Debug\Hotel.DTO.dll
+D:\20621599\HotelProject\Hotel.DTO\obj\Debug\Hotel.DTO.pdb
+C:\Users\pavle\Desktop\HotelProject\Hotel.DTO\bin\Debug\Hotel.DTO.dll
+C:\Users\pavle\Desktop\HotelProject\Hotel.DTO\bin\Debug\Hotel.DTO.pdb
+C:\Users\pavle\Desktop\HotelProject\Hotel.DTO\obj\Debug\Hotel.DTO.csproj.AssemblyReference.cache
+C:\Users\pavle\Desktop\HotelProject\Hotel.DTO\obj\Debug\Hotel.DTO.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Desktop\HotelProject\Hotel.DTO\obj\Debug\Hotel.DTO.dll
+C:\Users\pavle\Desktop\HotelProject\Hotel.DTO\obj\Debug\Hotel.DTO.pdb
